@@ -26,6 +26,10 @@ The project investigates the challenges of wearable AI, including processing lat
 
 https://youtu.be/MOaC30UGe9Q
 
+## full slides with videos and results
+
+https://docs.google.com/presentation/d/1jwChEF2WsFivi6KAPl2H0lPew3VXsQ-s/edit?usp=sharing&ouid=108640060486196885440&rtpof=true&sd=true
+
 The demonstration includes both AR prototypes, testing on Epson Moverio BT-300 smart glasses, gesture-based interaction, 3D furniture placement and occlusion-aware visualization.
 
 ## Technical Contributions
